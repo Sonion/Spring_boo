@@ -54,6 +54,7 @@
             <PatternLayout pattern="%m%n" />
             <ThresholdFilter level="info" />
             <TimeBasedTriggeringPolicy />
+            
         </RollingRandomAccessFile>
 
     </appenders>
